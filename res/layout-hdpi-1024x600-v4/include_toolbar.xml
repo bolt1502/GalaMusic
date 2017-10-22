@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:uicontrol="http://com.acloud.stub.memclean/apk/res/com.acloud.stub.UiControl">
+    <ImageView android:id="@id/title_btn_home" android:layout_width="62.0dip" android:layout_height="52.0dip" android:src="@drawable/button_home_selector" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <ImageView android:background="@drawable/vertical_line" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/title_btn_home" android:contentDescription="@string/line" />
+    <TextView android:textSize="@dimen/font_text_32_size" android:textColor="@android:color/white" android:id="@id/title_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="30.0dip" android:layout_marginTop="15.0dip" android:layout_toRightOf="@id/title_btn_home" android:layout_alignTop="@id/title_btn_home" />
+    <ImageView android:background="@drawable/vertical_line" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/title_btn_quit" android:contentDescription="@string/line" />
+    <ImageView android:id="@id/title_btn_quit" android:layout_width="62.0dip" android:layout_height="52.0dip" android:src="@drawable/button_back_selector" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+</RelativeLayout>

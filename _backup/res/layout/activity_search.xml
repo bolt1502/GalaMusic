@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/search_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/music_search_back_btn" android:background="@drawable/button_back_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" />
+    <LinearLayout android:orientation="vertical" android:id="@id/search_text_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/music_search_back_btn">
+        <LinearLayout android:orientation="horizontal" android:id="@id/search_line_one_layout" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <TextView android:id="@id/search_asterisk_text" android:text="@string/asterisk" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_a_text" android:text="@string/a" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_b_text" android:text="@string/b" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_c_text" android:text="@string/c" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_d_text" android:text="@string/d" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_e_text" android:text="@string/e" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_f_text" android:text="@string/f" style="@style/SearchTextStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/search_line_two_layout" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <TextView android:id="@id/search_g_text" android:text="@string/g" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_h_text" android:text="@string/h" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_i_text" android:text="@string/i" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_j_text" android:text="@string/j" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_k_text" android:text="@string/k" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_l_text" android:text="@string/l" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_m_text" android:text="@string/m" style="@style/SearchTextStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/search_line_three_layout" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <TextView android:id="@id/search_n_text" android:text="@string/n" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_o_text" android:text="@string/o" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_p_text" android:text="@string/p" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_q_text" android:text="@string/q" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_r_text" android:text="@string/r" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_s_text" android:text="@string/s" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_t_text" android:text="@string/t" style="@style/SearchTextStyle" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/search_line_four_layout" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <TextView android:id="@id/search_u_text" android:text="@string/u" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_v_text" android:text="@string/v" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_w_text" android:text="@string/w" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_x_text" android:text="@string/x" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_y_text" android:text="@string/y" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_z_text" android:text="@string/z" style="@style/SearchTextStyle" />
+            <TextView android:id="@id/search_pound_sign_text" android:text="@string/pound_sign" style="@style/SearchTextStyle" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/musiclist_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/musiclist_title_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/include_toolbar" />
+    <RelativeLayout android:id="@id/musiclist_top_menu_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/musiclist_music_type_btn" android:background="@drawable/normal_button_selector" android:layout_marginLeft="158.0px" style="@style/ButtonStyle_mdpi" />
+        <com.acloud.stub.ui.view.MarqueeView android:textSize="@dimen/file_dir_size_mdpi" android:id="@id/musiclist_file_dir_text" android:layout_width="fill_parent" android:layout_marginLeft="12.0px" android:layout_marginRight="12.0px" android:singleLine="true" android:layout_toLeftOf="@id/musiclist_music_detail_btn" android:layout_toRightOf="@id/musiclist_music_type_btn" android:layout_centerVertical="true" style="@style/TextStyle_mdpi" />
+        <Button android:id="@id/musiclist_music_detail_btn" android:background="@drawable/normal_button_selector" android:layout_width="162.0px" android:layout_marginRight="158.0px" android:singleLine="true" android:layout_alignParentRight="true" style="@style/ButtonStyle_mdpi" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/musiclist_up_down_page_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/musiclist_title_layout">
+        <Button android:id="@id/musiclist_up_btn" android:background="@drawable/up_button_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <Button android:id="@id/musiclist_down_btn" android:background="@drawable/down_button_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/musiclist_list_title_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="23.0px" android:layout_marginTop="5.0px" android:layout_marginRight="18.0px" android:layout_toRightOf="@id/musiclist_up_down_page_layout" android:layout_below="@id/musiclist_title_layout">
+        <TextView android:id="@id/musiclist_music_totalcount_text" android:layout_centerVertical="true" style="@style/TextStyle_mdpi" />
+        <EditText android:textSize="@dimen/main_btn_text_size_mdpi" android:textColor="@color/black" android:id="@id/musiclist_search_edittext" android:background="@drawable/search_background" android:paddingLeft="60.0px" android:layout_width="366.0px" android:layout_height="wrap_content" android:layout_marginRight="6.0px" android:hint="@string/search_edit_hint" android:singleLine="true" android:layout_toLeftOf="@id/musiclist_find_btn" android:layout_centerVertical="true" style="@style/TextStyle_mdpi" />
+        <TextView android:textSize="@dimen/search_letter_size_mpdi" android:id="@id/musiclist_search_letter" android:layout_marginRight="30.0px" android:layout_toLeftOf="@id/musiclist_find_btn" android:layout_centerVertical="true" style="@style/TextStyle_mdpi" />
+        <Button android:id="@id/musiclist_find_btn" android:background="@drawable/find_button_selector" android:layout_marginRight="8.0px" android:layout_toLeftOf="@id/musiclist_collectall_btn" style="@style/ButtonStyle_mdpi" />
+        <Button android:id="@id/musiclist_collectall_btn" android:background="@drawable/musiclist_button_selector" android:layout_alignParentRight="true" style="@style/ButtonStyle_mdpi" />
+    </RelativeLayout>
+    <ListView android:id="@id/musiclist_list_view" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0px" android:layout_marginTop="3.0px" android:layout_marginRight="15.0px" android:listSelector="@drawable/musiclist_item_selector" android:cacheColorHint="@android:color/transparent" android:layout_toRightOf="@id/musiclist_up_down_page_layout" android:layout_below="@id/musiclist_list_title_layout" android:layout_alignBottom="@id/musiclist_up_down_page_layout" />
+    <Button android:id="@id/musiclist_favorite_btn" android:background="@drawable/normal_button_selector" android:layout_marginLeft="158.0px" android:layout_marginBottom="2.0px" android:text="@string/favorite" android:layout_alignParentBottom="true" style="@style/ButtonStyle_mdpi" />
+    <Button android:id="@id/musiclist_music_classify_btn" android:background="@drawable/normal_button_selector" android:layout_marginRight="158.0px" android:layout_marginBottom="2.0px" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" style="@style/ButtonStyle_mdpi" />
+    <LinearLayout android:orientation="vertical" android:id="@id/musiclist_music_type_layout" android:background="@drawable/music_type_layout_background" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="93.0px" android:layout_marginTop="-7.0px" android:layout_below="@id/musiclist_top_menu_layout">
+        <TextView android:id="@id/musiclist_music_type_song_text" android:paddingTop="6.0px" android:paddingBottom="6.0px" android:layout_marginTop="12.0px" android:text="@string/song" style="@style/MusicTypeLayoutStyle_mdpi" />
+        <ImageView android:background="@drawable/line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-52.0px" android:contentDescription="@string/line" />
+        <TextView android:id="@id/musiclist_music_type_directory_text" android:paddingTop="6.0px" android:paddingBottom="6.0px" android:layout_marginTop="12.0px" android:text="@string/directory" style="@style/MusicTypeLayoutStyle_mdpi" />
+        <ImageView android:background="@drawable/line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-52.0px" android:contentDescription="@string/line" />
+        <TextView android:id="@id/musiclist_music_type_singer_text" android:paddingTop="6.0px" android:paddingBottom="6.0px" android:layout_marginTop="12.0px" android:text="@string/singer" style="@style/MusicTypeLayoutStyle_mdpi" />
+        <ImageView android:background="@drawable/line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-52.0px" android:contentDescription="@string/line" />
+        <TextView android:id="@id/musiclist_music_type_search_text" android:paddingTop="6.0px" android:paddingBottom="6.0px" android:layout_marginTop="12.0px" android:text="@string/search" style="@style/MusicTypeLayoutStyle_mdpi" />
+        <ImageView android:background="@drawable/line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-52.0px" android:contentDescription="@string/line" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/musiclist_detail_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="103.0px" android:layout_alignParentRight="true">
+        <Button android:layout_gravity="center_horizontal" android:id="@id/musiclist_up_page_btn" android:background="@drawable/up_page_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.0px" />
+        <LinearLayout android:background="@drawable/music_type_layout_background" android:paddingLeft="7.0px" android:paddingRight="7.0px" android:layout_width="wrap_content" android:layout_height="434.0px">
+            <ListView android:layout_gravity="center" android:id="@id/musiclist_detail_listview" android:scrollbars="none" android:layout_width="247.0px" android:layout_height="410.0px" android:listSelector="@android:color/transparent" android:divider="@null" />
+        </LinearLayout>
+        <Button android:layout_gravity="center_horizontal" android:id="@id/musiclist_down_page_btn" android:background="@drawable/down_page_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="3.0px" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/musiclist_sdcard_udisk_choose_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+        <Button android:layout_gravity="center_horizontal" android:id="@id/musiclist_choose_btn" android:background="@drawable/normal_button_selector" style="@style/ButtonStyle_mdpi" />
+        <LinearLayout android:orientation="vertical" android:id="@id/musiclist_choose_menu_layout" android:background="@drawable/music_type_layout_background" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-7.0px">
+            <TextView android:id="@id/musiclist_choose_all_text" android:paddingTop="6.0px" android:paddingBottom="6.0px" android:layout_marginTop="12.0px" android:text="@string/choose_all" style="@style/MusicTypeLayoutStyle_mdpi" />
+            <ImageView android:background="@drawable/line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-52.0px" android:contentDescription="@string/line" />
+            <TextView android:id="@id/musiclist_choose_sdcard_text" android:paddingTop="6.0px" android:paddingBottom="6.0px" android:layout_marginTop="12.0px" android:text="@string/choose_sdcard" style="@style/MusicTypeLayoutStyle_mdpi" />
+            <ImageView android:background="@drawable/line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-52.0px" android:contentDescription="@string/line" />
+            <TextView android:id="@id/musiclist_choose_udisk_text" android:paddingTop="6.0px" android:paddingBottom="6.0px" android:layout_marginTop="12.0px" android:text="@string/choose_udisk" style="@style/MusicTypeLayoutStyle_mdpi" />
+            <ImageView android:background="@drawable/line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-52.0px" android:contentDescription="@string/line" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

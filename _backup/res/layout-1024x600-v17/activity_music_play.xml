@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:musicspace="http://schemas.android.com/apk/res/com.acloud.stub.localmusic">
+    <ImageView android:id="@id/main_artist_image" android:background="#ff121212" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="center" />
+    <ImageView android:background="#705b5b5b" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/main_up_layout" android:background="@drawable/main_up_background" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/title_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/include_toolbar" />
+        <android.widget.TextClock android:textSize="19.0sp" android:textColor="@android:color/white" android:id="@id/dateClockTime" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginRight="80.0dip" android:shadowColor="#ff000000" android:shadowRadius="1.0" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:format12Hour="@string/hhmm" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/main_volumebar_playlist_layout" android:background="@drawable/curplaylist_volumebar_bg" android:layout_width="275.0dip" android:layout_height="fill_parent" android:layout_marginTop="2.0dip" android:layout_marginBottom="2.0dip" android:layout_above="@id/main_layout_btn" android:layout_below="@id/main_up_layout">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/main_seekbar_layout" android:layout_width="60.0dip" android:layout_height="fill_parent">
+            <CheckBox android:id="@id/main_mute_box" android:background="@drawable/mute_f" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@null" />
+            <TextView android:textSize="@dimen/font_text_30_size" android:textColor="@android:color/white" android:gravity="center" android:id="@id/main_volume_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" />
+            <com.acloud.stub.ui.view.VerticalSeekBar android:id="@id/main_volumebar" android:paddingLeft="10.0dip" android:paddingTop="10.0dip" android:paddingBottom="7.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="4.0dip" android:max="40" musicspace:thumb_backgroud="@drawable/volume_thumb" musicspace:height="300" musicspace:width="45" style="@style/volumeSeekBar" />
+        </LinearLayout>
+        <ImageView android:background="@drawable/fg" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+        <RelativeLayout android:id="@id/main_currect_playlist_layout" android:layout_width="213.0dip" android:layout_height="fill_parent" android:layout_marginLeft="-5.0dip">
+            <ListView android:id="@id/main_currect_playlist_listview" android:scrollbars="none" android:layout_width="180.0dip" android:layout_height="fill_parent" android:listSelector="@android:color/transparent" android:divider="@null" android:layout_centerInParent="true" />
+            <ImageView android:id="@id/main_location_btn" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:layout_marginRight="-5.0dip" android:src="@drawable/location_button_selector" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <RelativeLayout android:id="@id/main_music_info_artist__layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="8.0dip" android:layout_toRightOf="@id/main_volumebar_playlist_layout" android:layout_below="@id/main_up_layout">
+        <RelativeLayout android:id="@id/main_artist_layout" android:background="@drawable/artist_background" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.acloud.stub.ui.view.CircleImageView android:id="@id/main_arits_image" android:background="@android:color/transparent" android:layout_width="139.0dip" android:layout_height="139.0dip" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/main_music_info_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_toRightOf="@id/main_artist_layout" android:layout_centerVertical="true">
+            <LinearLayout android:orientation="horizontal" android:id="@id/music_name_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:background="@drawable/music_name" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <com.acloud.stub.ui.view.MarqueeView android:textSize="17.0sp" android:textColor="@android:color/white" android:ellipsize="marquee" android:layout_gravity="center_vertical" android:id="@id/music_name_text" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="160.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:scrollHorizontally="true" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/artist_name_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                <ImageView android:background="@drawable/artist_name" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="17.0sp" android:textColor="@android:color/white" android:layout_gravity="center_vertical" android:id="@id/artist_name_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:singleLine="true" />
+            </LinearLayout>
+            <ImageView android:id="@id/is_favorite_image" android:background="@drawable/main_no_favorite" android:padding="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+        </LinearLayout>
+    </RelativeLayout>
+    <ListView android:id="@id/main_lrc_listview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="3.0dip" android:divider="@null" android:layout_toRightOf="@id/main_volumebar_playlist_layout" android:layout_above="@id/main_music_time_layout" android:layout_below="@id/main_music_info_artist__layout" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/main_layout_btn" android:background="@drawable/main_down_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <ImageView android:id="@id/main_btn_music_list" android:src="@drawable/devicelist_button_selector" style="@style/ButtomMenuStyle" />
+        <ImageView android:background="@drawable/vertical_line" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/line" />
+        <ImageView android:id="@id/main_btn_playmode" android:src="@drawable/playmode_list_button_selector" style="@style/ButtomMenuStyle" />
+        <ImageView android:background="@drawable/vertical_line" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/line" />
+        <ImageView android:id="@id/main_btn_pre" android:src="@drawable/pre_button_selector" style="@style/ButtomMenuStyle" />
+        <ImageView android:background="@drawable/vertical_line" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/line" />
+        <ImageView android:id="@id/main_btn_play" android:src="@drawable/play_button_selector" style="@style/ButtomMenuStyle" />
+        <ImageView android:background="@drawable/vertical_line" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/line" />
+        <ImageView android:id="@id/main_btn_next" android:src="@drawable/next_button_selector" style="@style/ButtomMenuStyle" />
+        <ImageView android:background="@drawable/vertical_line" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/line" />
+        <ImageView android:id="@id/main_btn_aps" android:src="@drawable/aps_button_selector" style="@style/ButtomMenuStyle" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/main_music_time_layout" android:background="@drawable/list_background" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:paddingBottom="5.0dip" android:layout_width="390.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_marginBottom="3.0dip" android:layout_above="@id/main_layout_btn" android:layout_alignParentRight="true">
+        <TextView android:textSize="13.0sp" android:textColor="@android:color/white" android:id="@id/main_music_cur_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip" android:layout_below="@id/main_music_time_seekbar" android:layout_alignParentLeft="true" android:textIsSelectable="true" />
+        <TextView android:textSize="13.0sp" android:textColor="@android:color/white" android:gravity="right" android:id="@id/main_music_total_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip" android:layout_below="@id/main_music_time_seekbar" android:layout_alignParentRight="true" android:textIsSelectable="true" />
+        <SeekBar android:id="@id/main_music_time_seekbar" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/playerSeekBar" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,1276 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: 9byEeeIo7OTphXLr/q5FmSEHluw=
+
+Name: res/drawable-hdpi-1024x600-v4/down_button_d.png
+SHA1-Digest: pEGlhPTFPvvOKHflXWfGjDVImp4=
+
+Name: res/drawable-mdpi-1024x600-v4/quit.png
+SHA1-Digest: pCfKN0Minc7PVzrY6fYceRtBLFc=
+
+Name: res/drawable-hdpi-v4/uibase_dialog_bg.png
+SHA1-Digest: 5DWLy2MrYtOfSpTqWTW8KXZVP/c=
+
+Name: res/drawable-hdpi-800x600-v4/down_page_d.png
+SHA1-Digest: 1f0k4PW3VmXtBL9hflXoh5msREI=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_stophigh.png
+SHA1-Digest: vwE1AdDHIpTv2TFKhKmppUCzrbk=
+
+Name: res/drawable-hdpi-v4/musiclist_item_bar.png
+SHA1-Digest: IpCFP87hhL6fNCGA7W4KMoo0wbk=
+
+Name: res/drawable-hdpi-1024x600-v4/music_name.png
+SHA1-Digest: Jiddvfu9PMs7FxtoRqOr2HKkHX4=
+
+Name: res/drawable-mdpi-1024x600-v4/main_is_favorite.png
+SHA1-Digest: AjbwQTSJ8CqNbMc9pfgyRvwWMfM=
+
+Name: res/drawable-hdpi-800x600-v4/main_is_favorite.png
+SHA1-Digest: fe1c1YiV/fBnh++7U9lWLgzsDKs=
+
+Name: res/drawable-hdpi-v4/main_btn_playmodesele_random.png
+SHA1-Digest: m7KJn2nYluHkWQyeJmZ2i/nVxT8=
+
+Name: res/layout-hdpi-1024x600-v4/layout_lrc.xml
+SHA1-Digest: 8xJpHkZkW+lvEzlSVHNufHdciq0=
+
+Name: res/drawable-hdpi-v4/mute_f.png
+SHA1-Digest: FCC/cZtl4HAz4TY9JIneeFt/Ofc=
+
+Name: res/drawable-mdpi-1024x600-v4/up_page_d.png
+SHA1-Digest: shHvMwe9U80k1eoEEvvmg/cdfo4=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playnext.png
+SHA1-Digest: 9F2HqlSq3FC3T/wVCeEwoFkpgH0=
+
+Name: res/drawable-hdpi-800x600-v4/artist_background.png
+SHA1-Digest: wx0kYM1ggIEU1xQgSGOLfMwdafg=
+
+Name: res/drawable-hdpi-v4/music_type_layout_background.png
+SHA1-Digest: a4ZP3sXUrpsVIamRjs/IRfWvkFk=
+
+Name: res/drawable-hdpi-v4/homehigh.png
+SHA1-Digest: Tki7GKYBG03xkvBuJZqfGm5coP0=
+
+Name: res/drawable-hdpi-1024x600-v4/quithigh.png
+SHA1-Digest: bfAsOPIR2ri959erauYdaGoZGho=
+
+Name: res/drawable-mdpi-1024x600-v4/location.png
+SHA1-Digest: LxR6LP+nOQBvCoP59Glz9mdTYuc=
+
+Name: res/drawable-mdpi-1024x600-v4/find_d.png
+SHA1-Digest: d47uYf6wSbQ8eWtltZbHcZ/CMrQ=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_list.png
+SHA1-Digest: cpIeBQ0Ksn0Y9GF5RrXcwoCfOEs=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_nolrc.png
+SHA1-Digest: J43/9RKgrnskDqgixmMIcppKMjM=
+
+Name: res/drawable/mediacontroller_play_button.xml
+SHA1-Digest: RINVXDokNknn/wXb+1tpCGeA2C0=
+
+Name: res/drawable/circle_white_bg.xml
+SHA1-Digest: g+Wqsdvw173R+2RF3oJKxQ7QGts=
+
+Name: res/drawable-hdpi-800x600-v4/is_collect.png
+SHA1-Digest: ZRTAfl4Nw/0zfAGB/405VMjBQMc=
+
+Name: res/drawable-hdpi-800x600-v4/location.png
+SHA1-Digest: ojLPBFmVmEjrdQp9/GOGLbAtGBs=
+
+Name: res/drawable/progress_drawble.xml
+SHA1-Digest: 9MsAgXpwBctgSEHsnla2D1HIXmc=
+
+Name: res/drawable-mdpi-1024x600-v4/fg.png
+SHA1-Digest: M81OeVCfWg0EqXuY8yXQkwY4ypE=
+
+Name: res/drawable-mdpi-1024x600-v4/main_arits_frame.png
+SHA1-Digest: hucRSn2jLRuVm3ubYOkF2T+68iU=
+
+Name: res/drawable-hdpi-v4/mediacontroller_seekbar02.png
+SHA1-Digest: 2N6X4y6Gn8yXojx226vnaSSSI1k=
+
+Name: res/layout-1024x600/activity_search.xml
+SHA1-Digest: hPnMw1uH+Md2u2mjrGdISYk4C/U=
+
+Name: res/drawable-hdpi-v4/main_btn_playnext.png
+SHA1-Digest: jcD3o/XpUCe+c+1BgykSN7RM86c=
+
+Name: res/drawable-hdpi-v4/main_btn_stop.png
+SHA1-Digest: KLYAFigVDZxoe74DyQ3uRniCtO8=
+
+Name: res/drawable-hdpi-1024x600-v4/seek_thumb.png
+SHA1-Digest: fm8e1k8wxlAspOe+ejEO3NLdOrM=
+
+Name: res/drawable-mdpi-1024x600-v4/seek_thumb.png
+SHA1-Digest: fYMwDBCVzamUVVbBIqsV25/Anp4=
+
+Name: res/drawable-hdpi-800x600-v4/musiclist_background.png
+SHA1-Digest: 03c8UwydVxIPZnpIncNqACEYp7g=
+
+Name: res/drawable-hdpi-1024x600-v4/musiclist_background.png
+SHA1-Digest: go+llpkLzUwA9xh9yzUINaO+DL8=
+
+Name: res/drawable-hdpi-800x600-v4/search_background.png
+SHA1-Digest: a201MHONgHZOrW2CJLdHJbGGQX0=
+
+Name: res/layout/activity_music_play.xml
+SHA1-Digest: 7CXQdM3I2XcRnmYgBtLO8Svj+24=
+
+Name: res/drawable-hdpi-1024x600-v4/mute_f.png
+SHA1-Digest: G7ONQ/oFSPEZClazkJko09bixAw=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_nolrchigh.png
+SHA1-Digest: l3gJEZ61olu7hHRnZ22ESMPT58w=
+
+Name: res/drawable-hdpi-1024x600-v4/delete_collect_d.png
+SHA1-Digest: yN2duOVPDluCyFHl8ErdhyIEDbU=
+
+Name: res/layout-mdpi-1024x600-v17/activity_music_play.xml
+SHA1-Digest: CwmXqdslb9YTRq7OM75IMm/mrjY=
+
+Name: res/drawable-hdpi-v4/button_selected.png
+SHA1-Digest: 9EN5Iuw4Cq2Qfw6dSpVttFHwyyA=
+
+Name: res/drawable-hdpi-v4/main_btn_play.png
+SHA1-Digest: zMeVU4+3F93uAZ4+1LsK/zAqbas=
+
+Name: res/drawable/dialog_button_selector.xml
+SHA1-Digest: zZv7WZongvbto0LPkRNnJ9kZN9Q=
+
+Name: res/layout-hdpi-1024x600-v4/activity_music_play.xml
+SHA1-Digest: ZA2Fa+0Qq81bweZqZ0sN+Rm90o0=
+
+Name: res/menu/qt.xml
+SHA1-Digest: f2N8AYNfdbD+B/KFcqbbceL4aPA=
+
+Name: res/layout-1024x600/layout_lrc.xml
+SHA1-Digest: XA/VP8s8E+gkU1Xnafw4s1/WgOg=
+
+Name: res/layout-mdpi-1024x600-v4/layout_lrc.xml
+SHA1-Digest: FM/taJdcr2x/Y4r6USmlO4DlUdA=
+
+Name: res/drawable-hdpi-v4/vertical_line.png
+SHA1-Digest: C6yVbmTfJXs+MxYq4faftVlujSs=
+
+Name: res/drawable-hdpi-1024x600-v4/down_page_d.png
+SHA1-Digest: UrDbgd558MhxAxa1mro2YIRj5bQ=
+
+Name: res/drawable-hdpi-800x600-v4/down_button_n.png
+SHA1-Digest: 7FzBqCXwdLZYtceG/EAnMaz81uI=
+
+Name: res/drawable-hdpi-v4/up_button_d.png
+SHA1-Digest: 3jGwUA1dimw04jB7fa2j7hZ1zO8=
+
+Name: res/drawable/vertical_seekbar_drawable.xml
+SHA1-Digest: OODZLGLHoseRqEwGCnMaTClbKlo=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playmodesele_list.png
+SHA1-Digest: 2hNmF4EKgtHV7ll6cNTw9uirRuU=
+
+Name: res/drawable-hdpi-v4/main_btn_aps.png
+SHA1-Digest: Xp0NcMTawM66L2XqzG/LD/QEQPg=
+
+Name: res/drawable-hdpi-1024x600-v4/musiclist_item_bar.png
+SHA1-Digest: RG0ysGaoqgFafVjjphHOyMoBXbY=
+
+Name: res/drawable-mdpi-1024x600-v4/main_up_background.png
+SHA1-Digest: DaUl1wBceX59+kKvZlqG3ffG98U=
+
+Name: res/drawable-mdpi-1024x600-v4/line.png
+SHA1-Digest: Dw0emkmT08eaKkw0irxR8nARyZ0=
+
+Name: res/drawable-hdpi-800x600-v4/music_main_background.png
+SHA1-Digest: FXwP5NB782ogO/KhIuHq79bk1uI=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_lrc.png
+SHA1-Digest: 4qXVjlhVWh6oorc6SEXzZoEtKHw=
+
+Name: res/drawable-hdpi-1024x600-v4/main_is_favorite.png
+SHA1-Digest: 9Yv5eNU6cvYBriepOZJik9+xHbo=
+
+Name: res/drawable-hdpi-v4/button_normal.png
+SHA1-Digest: I93kucIjUo+Lx5sGvbqjy9VQ6tE=
+
+Name: com/acloud/ui/utils/v11/MultiChoiceModeListener.java.svntmp
+SHA1-Digest: rVGiTqWCWJuhnmSEkyihB7LZvjg=
+
+Name: res/drawable-hdpi-v4/main_btn_playmode_list.png
+SHA1-Digest: 9T5UIqZPGoRs4i3jyaLzi39xFYM=
+
+Name: res/drawable-hdpi-800x600-v4/down_page_n.png
+SHA1-Digest: vCP34gI8WrFqbNsvEQ2MvKp1aCg=
+
+Name: res/drawable-hdpi-800x600-v4/mute_f.png
+SHA1-Digest: 2ZnMvPJfOV1K/uGPFMoaQC8uaGo=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_listhigh.png
+SHA1-Digest: AvGyXTsrcSauiaf3BJFQBzJk3ig=
+
+Name: res/drawable-hdpi-800x600-v4/main_up_background.png
+SHA1-Digest: kSho0X4sl2tmCQFRvkTrxPG4YGs=
+
+Name: res/drawable-mdpi-1024x600-v4/main_down_background.png
+SHA1-Digest: odhLlMbLz53KN2kb5Evi0HvaIHo=
+
+Name: res/drawable-hdpi-v4/musiclist_background.png
+SHA1-Digest: pxQo3lj6TIXTQiFINwXTnicbEhc=
+
+Name: res/drawable-hdpi-v4/volume_thumb.png
+SHA1-Digest: OJCjd+K1+/4wzjgQJVk7rvV1cVY=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_list.png
+SHA1-Digest: jZJjfRj3A+jm6R7k8OFVrW4hnE8=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_apshigh.png
+SHA1-Digest: vDQKkzFoHu0ALuGgX3gJ9KxfM38=
+
+Name: res/drawable-mdpi-1024x600-v4/down_button_d.png
+SHA1-Digest: UTHqeN7uEGuShhgVpF21HqHnWb4=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playnexthigh.png
+SHA1-Digest: CwTU2D1DxPjVWu+MhoMxDidgEK4=
+
+Name: res/drawable-hdpi-1024x600-v4/ic_launcher.png
+SHA1-Digest: RbVyJyXZwfpGap7cFunu1znjMbc=
+
+Name: res/drawable-hdpi-800x600-v4/button_normal.png
+SHA1-Digest: /d3Y+pwZ5JwIlvzuC38q/+VoxoQ=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playmodesele_random.png
+SHA1-Digest: Gj3zFqadYAYQshjlZV8DMWPw8H8=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playmode_random.png
+SHA1-Digest: gGfMAjixMHwYcLHpdaXh8kaJOug=
+
+Name: res/drawable-hdpi-v4/main_btn_playpre.png
+SHA1-Digest: fHAuGU46Nz7xwWfH1EiXES9dlck=
+
+Name: res/drawable-hdpi-v4/anniu_d.png
+SHA1-Digest: /cCYNprjg36YpCOg2lhn6R5S4kY=
+
+Name: res/drawable-hdpi-800x600-v4/find_d.png
+SHA1-Digest: JDhDvndDirrKQxSPYywAhpb8FhI=
+
+Name: res/drawable-hdpi-v4/down_page_d.png
+SHA1-Digest: 0bJh3rGv7ezCjNLJQg5HMt1WGh4=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playnexthigh.png
+SHA1-Digest: m5qtJ53P3f5BySD4QTtkBcGdHUY=
+
+Name: res/drawable-hdpi-1024x600-v4/down_page_n.png
+SHA1-Digest: 5UdFGMcorSDHPAnMzk4ktXEYzuE=
+
+Name: res/drawable-hdpi-v4/artist_name.png
+SHA1-Digest: 8OfRDvOi4bkPro3N/8R/+WwayZQ=
+
+Name: res/anim/push_right_in.xml
+SHA1-Digest: UpfN4grvny/GMbSgyKv0hpQsCAo=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_stop.png
+SHA1-Digest: OZHs9ZZXdkWORnwEBFKtfxngMCc=
+
+Name: res/drawable-hdpi-v4/main_btn_lrchigh.png
+SHA1-Digest: 6mQYAfv9UZZJvN+kxEvMFrP6898=
+
+Name: res/layout-hdpi-1024x600-v4/activity_musiclist.xml
+SHA1-Digest: 81o6BMUjsS1Sa0LzZ4EHT0QJt+M=
+
+Name: lib/armeabi-v7a/libvlcjni.so
+SHA1-Digest: hdNVl3GYlYi3KGxtCVmHb/bYYq8=
+
+Name: res/drawable-hdpi-1024x600-v4/down_button_n.png
+SHA1-Digest: jQ4Zqhz/QlRP18OkiUNAwQCGpqE=
+
+Name: res/drawable-hdpi-800x600-v4/main_no_favorite.png
+SHA1-Digest: 2YfzaKVLraxFUoQH05rFfjWaWfk=
+
+Name: res/drawable-hdpi-v4/main_btn_nolrc.png
+SHA1-Digest: mVd87U89M0YvDH1lL9zXZtYojgA=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: gWje/mDnP4eezWwTtgKcIkDbg4Y=
+
+Name: res/layout/upgrade_down.xml
+SHA1-Digest: BDmzZ/VtG3X2LiRYX6iOd8nDOsw=
+
+Name: res/drawable-hdpi-1024x600-v4/button_selected.png
+SHA1-Digest: TIgyDsKLQzVnW3hPI56umCvwp/g=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_stop.png
+SHA1-Digest: KMYj09j/fFc7zv/Hcm3dOyaHGps=
+
+Name: res/drawable-hdpi-1024x600-v4/home.png
+SHA1-Digest: zA5ahWh6xUNAOOZHiYNsjdI1Hw0=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playmode_random.png
+SHA1-Digest: W/LnS5DrOJ8J3CdN9U8/yIUrwqQ=
+
+Name: res/drawable-hdpi-1024x600-v4/musiclist_button_n.png
+SHA1-Digest: M86521Qpg/NbX86upmrw6SpiNRQ=
+
+Name: res/drawable-hdpi-800x600-v4/up_page_n.png
+SHA1-Digest: pMNATjI5mFN1ysE5bOqwhx5kyBA=
+
+Name: res/drawable-hdpi-v4/main_arits_frame.png
+SHA1-Digest: uV75SispidyCniSxjjV+lbS0O6s=
+
+Name: res/drawable-mdpi-1024x600-v4/musiclist_button_d.png
+SHA1-Digest: ot2qasTzwCBDy0O5HhkFqTCBYgU=
+
+Name: res/drawable-hdpi-v4/jindu1.png
+SHA1-Digest: sRW2bX8aMUa7GFuLebh9cGJDwK8=
+
+Name: res/drawable/playmode_random_button_selector.xml
+SHA1-Digest: NHlBq38O7cjCURLsxxWW8Gxs9QM=
+
+Name: res/drawable/loading_progress.xml
+SHA1-Digest: j5ZA3gIPsEZmMtU0yuQaE4SCQGc=
+
+Name: lib/armeabi-v7a/libanw.13.so
+SHA1-Digest: HAr6p9PsNeYSw+jUgZxldToCD8M=
+
+Name: res/drawable-hdpi-v4/up_page_d.png
+SHA1-Digest: d4drnAE7R2D0oWWM2veGuq/3tzg=
+
+Name: res/drawable-hdpi-v4/line.png
+SHA1-Digest: vXf3y3HhCQ5znCUCRP82N7kltIQ=
+
+Name: lib/armeabi-v7a/libanw.14.so
+SHA1-Digest: 7fMXOCkSquTnLN0SOBrFXvSSpNI=
+
+Name: res/drawable/normal_button_selector.xml
+SHA1-Digest: g8aFPW13F4TeD3my9cmcFXZIW7g=
+
+Name: res/drawable/button_back_selector.xml
+SHA1-Digest: GvpvPtFPsWYxDKVGPmnBLIuFzyM=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playprehigh.png
+SHA1-Digest: G5kkbvCh2geXTHdh/nEvvznPeR8=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playmodesele_single.png
+SHA1-Digest: BsKCaemzp5iMyzGZ8mGdt5btr8E=
+
+Name: res/anim/push_left_in.xml
+SHA1-Digest: P81RAU7jESwNYE57vhaYAhcIO/0=
+
+Name: res/drawable-mdpi-1024x600-v4/button_selected.png
+SHA1-Digest: rPGF1ED//EXgdR6hjJp43d36aPA=
+
+Name: res/drawable-hdpi-v4/main_btn_apshigh.png
+SHA1-Digest: eqVgij/u+EeIG9wP7y4ZFYg9anY=
+
+Name: res/layout/layout_currect_playlist_item.xml
+SHA1-Digest: D3772iyXdXAdVvy72gfW4TYvpHo=
+
+Name: res/layout-hdpi-1024x600-v4/activity_search.xml
+SHA1-Digest: ug71+HL0WkDy9Q491F1p7obew7E=
+
+Name: res/drawable-mdpi-1024x600-v4/musiclist_item_bar_high.png
+SHA1-Digest: PaxDNL26Zkyjenr1JDMpzIx03KE=
+
+Name: res/drawable-mdpi-1024x600-v4/location_high.png
+SHA1-Digest: ae4ZnHGnT81oPXG+4kg11JEwtA0=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_nolrc.png
+SHA1-Digest: XmNchmegcM/6dET5SC0sGKupOWc=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_lrc.png
+SHA1-Digest: /wd3YI2OhQ7YTAt20vifrKjZvpQ=
+
+Name: res/drawable-hdpi-v4/down_bj.png
+SHA1-Digest: Mavc1Omi+2YMS1xglZi0gOAUyZc=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playhigh.png
+SHA1-Digest: Ern+pBLBHd1F2z6NCKByzR3scnM=
+
+Name: res/drawable-hdpi-1024x600-v4/volume_thumb.png
+SHA1-Digest: 4ddXRq3UQ2WdL7X4dOzCJLAhUXM=
+
+Name: res/drawable-hdpi-v4/find_n.png
+SHA1-Digest: zwWizpSHeXDUyx7XnNrEagVnzTw=
+
+Name: res/drawable-hdpi-v4/seek_thumb.png
+SHA1-Digest: XSIBqwLOWmazLq06YcGBdPvVxYY=
+
+Name: res/drawable-hdpi-v4/main_btn_lrc.png
+SHA1-Digest: sFY88XbM4cPBwvvmftc8MdhYwjo=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_stop.png
+SHA1-Digest: qun2aIeYiHA5K4UKPyTo4Zy7PD4=
+
+Name: res/drawable-hdpi-1024x600-v4/location.png
+SHA1-Digest: YP1YXXfu5CAU9lyHp35biAllxuw=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playpre.png
+SHA1-Digest: fgmYIjGEMmGXG7W8aLhK/VqGSy0=
+
+Name: res/drawable-hdpi-v4/set_up.png
+SHA1-Digest: 5A9qgIHQ8za7pkTzObpFWmGZNHE=
+
+Name: res/drawable-mdpi-1024x600-v4/up_button_n.png
+SHA1-Digest: g20ICz7fu2WWOZdXovBs+2SXAQE=
+
+Name: res/drawable-hdpi-v4/dian.png
+SHA1-Digest: Pyf7EIVsq/w2YCb4BM0dg6EL3nE=
+
+Name: res/drawable-mdpi-1024x600-v4/currect_playlist_line.png
+SHA1-Digest: 5HeLKekqcUz89OtewrRg9VXj5Wc=
+
+Name: res/drawable-hdpi-1024x600-v4/up_button_d.png
+SHA1-Digest: p9sB+L7HCrh8AcIoEC1FhF+HyB4=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_lrchigh.png
+SHA1-Digest: NMZ1G+UHJK+cnmc+0VOIiTEz1+8=
+
+Name: res/drawable/playmode_single_button_selector.xml
+SHA1-Digest: luJct7oBH61UEPtdQ4RQDw0VT2Y=
+
+Name: res/drawable/musiclist_item_selector.xml
+SHA1-Digest: 0yDwg6v/JjipioXfmxr7v9L7tQY=
+
+Name: res/drawable/mediacontroller_seekbar_thumb.xml
+SHA1-Digest: JPeBlL8lxw+owVeK/ntXvhg/4sQ=
+
+Name: res/drawable-mdpi-1024x600-v4/delete_collect_d.png
+SHA1-Digest: 7Kyl85t9XSQ2F5mOdE88I0PklWU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: c9ByityJPnnJ69RwoQTNeOeLLRo=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playmode_random.png
+SHA1-Digest: c+2aWBgvHeBdTwakym/SWYPGKTU=
+
+Name: res/drawable-hdpi-v4/delete_collect_d.png
+SHA1-Digest: jvHvQrjVtUVvHOHKjY7dXxhlRts=
+
+Name: res/drawable/play_button_selector.xml
+SHA1-Digest: TDxQj0y1jGzgDwmYcE/gp8jfK9I=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_play.png
+SHA1-Digest: yb7MhO6lTJ2rXU0C/AIdHrjsRqk=
+
+Name: res/drawable-hdpi-1024x600-v4/button_normal.png
+SHA1-Digest: qdCj8m3JNXQWCJsH91/hjCpEZhQ=
+
+Name: res/drawable-hdpi-v4/up_button_n.png
+SHA1-Digest: /eHaTOHUaHXOL27XMZ0jUt3+XR8=
+
+Name: res/drawable-hdpi-v4/quithigh.png
+SHA1-Digest: 42FU7rRPeglsyZfHSpWJq0LoEpc=
+
+Name: res/drawable/playmode_list_button_selector.xml
+SHA1-Digest: WQHD/4eW7RAiHl5Va6/VQnLljPk=
+
+Name: res/drawable/progressbar_background.xml
+SHA1-Digest: Jz9Lpun2TPbhHW5jCKIqFvTi430=
+
+Name: res/drawable-hdpi-v4/main_btn_playmode_random.png
+SHA1-Digest: lXpYpaEP9rJpKNQjpz/1a4CHFbw=
+
+Name: res/drawable-hdpi-v4/home.png
+SHA1-Digest: M+D3n/PlzzGMG1cT+/XCN+Oq3Bk=
+
+Name: classes.dex
+SHA1-Digest: Jd+OwNQcqjev5gTegQVkA3e5xbQ=
+
+Name: res/drawable-mdpi-1024x600-v4/vertical_line.png
+SHA1-Digest: yknI/vXJkAIreZUiNVs4bxhwwRU=
+
+Name: res/drawable-hdpi-v4/main_btn_playmode_single.png
+SHA1-Digest: c81xqaqDH1RA/d/lcTkkglhFPSA=
+
+Name: res/drawable-hdpi-1024x600-v4/no_collect.png
+SHA1-Digest: pbc8N3lvAVyqvjI7Uh0Hj3TT7fY=
+
+Name: res/drawable-hdpi-v4/main_btn_list.png
+SHA1-Digest: aAcJ/eufWmjosYzXxvToZJHLpXM=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playhigh.png
+SHA1-Digest: 61Kb4YWPeubqQdjA2b1R9jElYgQ=
+
+Name: res/layout-hdpi-800x600-v4/activity_musiclist.xml
+SHA1-Digest: xgfHUdsDRXNvDxAK2uxvqOT4atc=
+
+Name: res/layout-mdpi-1024x600-v4/layout_musiclist_detail_item.xml
+SHA1-Digest: BnOuHz1+AdOAo8SmiNugxGgwtuE=
+
+Name: res/drawable/seekbar_drawable.xml
+SHA1-Digest: fqxwlkzePETd22xM8oMEJFZ1RXY=
+
+Name: res/drawable/up_page_selector.xml
+SHA1-Digest: xuPIye0V5KoVB5yke/6GBvhu3+I=
+
+Name: res/drawable-hdpi-v4/main_is_favorite.png
+SHA1-Digest: NJp4iDQou5RRqE6L1Rw7k42cR/o=
+
+Name: res/drawable-hdpi-v4/volume_seekbar_d.9.png
+SHA1-Digest: cK2NcrBQ+OYpV/myp8nSOobZKzQ=
+
+Name: res/drawable-hdpi-800x600-v4/currect_playlist_background_d.png
+SHA1-Digest: cl4ZCS7yQWfug9W+yS3D5ZtEaVw=
+
+Name: res/drawable-hdpi-1024x600-v4/find_n.png
+SHA1-Digest: fuGvH0nPnUQLZ9/DeLQ/ubz/tWU=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_listhigh.png
+SHA1-Digest: 5NSNR384OEcJ+bKm/OiS5taqkhI=
+
+Name: res/anim/push_right_out.xml
+SHA1-Digest: YXmuiIU76h7XkXDiLsVCfKSfmd0=
+
+Name: res/layout/activity_search.xml
+SHA1-Digest: KkZufuEIC+nIRVeDfZXBOAK/2Ls=
+
+Name: res/drawable/aps_button_selector.xml
+SHA1-Digest: 4Y+R6vCdX9c9RYQIl7SflYC35l0=
+
+Name: res/drawable-mdpi-1024x600-v4/down_page_d.png
+SHA1-Digest: FWG8XBzRM3N7XtPxyJOnVR3eX90=
+
+Name: res/drawable/pre_button_selector.xml
+SHA1-Digest: XiCpOy+PxOI/d8P7rIxb90p5d8o=
+
+Name: res/drawable-mdpi-1024x600-v4/mute_f.png
+SHA1-Digest: uSHl5yxSzMSe7vlEeHS0woRavdc=
+
+Name: res/drawable-hdpi-v4/jindu.png
+SHA1-Digest: yOd4H2zn3JGDkLcNB/e1UTDUTaM=
+
+Name: res/drawable-hdpi-800x600-v4/icon.png
+SHA1-Digest: S7rdTvrB3qAFIDMEkj/MQnhqK0w=
+
+Name: res/drawable-hdpi-1024x600-v4/is_collect.png
+SHA1-Digest: uqi8ZEuPT16GL007A2Jz2bZo4GA=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_apshigh.png
+SHA1-Digest: xT0x0lSEB1NG3/Tap3llUNeRDNg=
+
+Name: res/drawable-hdpi-1024x600-v4/artist_background.png
+SHA1-Digest: /MU/UwRlyMK85jVB0oenizYXtUM=
+
+Name: res/drawable-hdpi-v4/search_background.png
+SHA1-Digest: /mQQ+lmoQ4CYMiKKErtDsNeq0o4=
+
+Name: res/drawable-hdpi-v4/no_collect.png
+SHA1-Digest: uqi3eaqwmaH8KTEyb/r8735FPuU=
+
+Name: res/drawable-mdpi-1024x600-v4/artist_background.png
+SHA1-Digest: 7RVXXEw2herpedYnr+OEAVa68k4=
+
+Name: res/drawable-hdpi-800x600-v4/currect_playlist_line.png
+SHA1-Digest: d8FGt87IayRa4+s4ELuzrUS4YZ8=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_aps.png
+SHA1-Digest: kHTvO9FgeNhebNmcs26qE/PZh08=
+
+Name: res/drawable-mdpi-1024x600-v4/music_main_background.png
+SHA1-Digest: VKukH8W19ydCEmU/vT6+InnvdIo=
+
+Name: res/layout-1024x600/layout_musiclist_item.xml
+SHA1-Digest: mlQ/JnohM485gbiAESdPNY0CBT0=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_nolrc.png
+SHA1-Digest: DDwXQoiOtt0mogMICciSrW7wS10=
+
+Name: res/drawable-hdpi-v4/fg.png
+SHA1-Digest: AdF4QWW8u4MnbnWOZqsk6bDcZ9g=
+
+Name: lib/armeabi-v7a/libiomx.10.so
+SHA1-Digest: 2vqHScLwrfFLjrUa97qigcDsC9k=
+
+Name: res/drawable-hdpi-1024x600-v4/find_d.png
+SHA1-Digest: D/ppwyb/05y3OQtsA7PPvOKT8vk=
+
+Name: res/drawable-hdpi-v4/volume_seekbar_n.9.png
+SHA1-Digest: KD92w6G3oK4aFuemmDdd6bXg6NE=
+
+Name: res/drawable-mdpi-1024x600-v4/main_no_favorite.png
+SHA1-Digest: orTjfRTJqcEf+TPHHd1IpfRgRHA=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playmodesele_single.png
+SHA1-Digest: r/pV+1vIIcQMdMhUkuob3wWBwq4=
+
+Name: res/drawable-hdpi-v4/uibase_dialog_button_s.png
+SHA1-Digest: pQgifGN2SLC5SYnUwlgli4YHbYM=
+
+Name: res/drawable-hdpi-1024x600-v4/musiclist_item_bar_high.png
+SHA1-Digest: ZseqVPLMd0jIDtkF5mol/2ckzYk=
+
+Name: res/drawable-hdpi-800x600-v4/ic_launcher.png
+SHA1-Digest: +6l/rVkoqQ6lbvGNYTx5my6gW2s=
+
+Name: res/drawable-hdpi-1024x600-v4/fg.png
+SHA1-Digest: usRDR+maNeITebtd9TVyVJt/+J8=
+
+Name: res/drawable-hdpi-v4/main_btn_playmodesele_list.png
+SHA1-Digest: DMeyhVFy1pU1wZhPUTe/h3Wym3M=
+
+Name: lib/armeabi-v7a/libiomx.14.so
+SHA1-Digest: 2K6bTXXsY8vEwG3wfla4inqdYVQ=
+
+Name: res/drawable-mdpi-1024x600-v4/musiclist_item_bar.png
+SHA1-Digest: QohAKUe3aVr2hJ6BiYn4x3nLrX8=
+
+Name: res/drawable-hdpi-800x600-v4/music_name.png
+SHA1-Digest: iXuKwogwZ9pxUIyvgUQJI80epwE=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playhigh.png
+SHA1-Digest: IrRDN5roEQxwJRDbWdROtEDiCR4=
+
+Name: res/drawable/up_button_selector.xml
+SHA1-Digest: 5c2yBy/gEHMcfEUCL+eexE4lXu8=
+
+Name: res/drawable-hdpi-v4/music_main_background.png
+SHA1-Digest: bRhxzD+MJdjox7su9TVKV2Mt7F8=
+
+Name: res/drawable-mdpi-1024x600-v4/ic_launcher.png
+SHA1-Digest: 7H01G0Y9IAAyf6whLyO114jty1s=
+
+Name: res/drawable/detail_listview_item_selector.xml
+SHA1-Digest: dvdAgwqt8yEJc2pagZ/wJwChaFc=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playmode_single.png
+SHA1-Digest: VVi13ZwXod5l8jwjjVlVYaybzKo=
+
+Name: res/drawable-mdpi-1024x600-v4/homehigh.png
+SHA1-Digest: BMKsRAx4J0/5cXiuBkcU2pgiVnU=
+
+Name: res/drawable-mdpi-1024x600-v4/music_type_layout_background.png
+SHA1-Digest: nrmI03vvq6TQYTB7xc13noenczQ=
+
+Name: res/layout/activity_musiclist.xml
+SHA1-Digest: UGTHdKjzjrEjdkWm7nY4EHPm9GA=
+
+Name: res/drawable-hdpi-800x600-v4/line.png
+SHA1-Digest: C6gq0eEp9ETWijUmaQJbVtq+aQk=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playnexthigh.png
+SHA1-Digest: j7/90yRUgW8p6xBSMlp2Ll+Te5o=
+
+Name: res/drawable-hdpi-v4/location_high.png
+SHA1-Digest: pv2PmfMkCeTLtzD9OgwnEBv43Qo=
+
+Name: res/drawable-hdpi-800x600-v4/no_collect.png
+SHA1-Digest: Ao7nyxATwqeEO42zwLyQc9tcskc=
+
+Name: res/drawable-hdpi-v4/main_down_background.png
+SHA1-Digest: 0+UJd1a/sjpcpSavHxvudL5ZxxU=
+
+Name: res/layout-mdpi-1024x600-v4/layout_currect_playlist_item.xml
+SHA1-Digest: TFb8FylLpk2eO4GIoOeQ0L4d+Jc=
+
+Name: res/drawable-hdpi-v4/main_btn_listhigh.png
+SHA1-Digest: tHPCRGvAXgpasTQaSTlcFPYDNCA=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_lrc.png
+SHA1-Digest: WQLgOzJvA7HuuQaC7kN8BXmh+9A=
+
+Name: res/drawable-hdpi-1024x600-v4/vertical_line.png
+SHA1-Digest: JJHEMF2yC+1/9cEAWGADT6GfP/8=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playprehigh.png
+SHA1-Digest: vczJ7WXsQvhr+nUX4RyRfopeCfs=
+
+Name: res/drawable-mdpi-1024x600-v4/up_page_n.png
+SHA1-Digest: 9I797VAV8i/F1S9uwbHr8gH2Ibw=
+
+Name: res/drawable-hdpi-v4/is_collect.png
+SHA1-Digest: 2Qv69nMYF5Zsjy1iKq16StBTAns=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playpre.png
+SHA1-Digest: 2CmBbeub40lKeX5vdPM2ji6ZXPE=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: 9mlUmV1EVY5Vjt1iarLhyL2Zu3Y=
+
+Name: res/layout-mdpi-1024x600-v4/include_toolbar.xml
+SHA1-Digest: fNrEqyioqJdSY8YPxq5XZCIP6xE=
+
+Name: res/drawable-hdpi-800x600-v4/mute_t.png
+SHA1-Digest: Hg/WBsS/J2Sronme7BveYkprDGQ=
+
+Name: res/drawable-hdpi-v4/mediacontroller_play01.png
+SHA1-Digest: jQoxMI3uHmJXEn9tiCeLF7R8sqA=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 5+eASsxaNhTkQypFzNquOHXDABE=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playmode_single.png
+SHA1-Digest: ghFfcKuwhU6SOErtGHGn+ArccY4=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_list.png
+SHA1-Digest: niQNYKz4DjC+WHdJnDJatM5iLfE=
+
+Name: res/drawable-hdpi-v4/quit.png
+SHA1-Digest: s2R+d10IXlHCuE1bjAP2i6riG8Q=
+
+Name: res/drawable-hdpi-800x600-v4/fg.png
+SHA1-Digest: 348VNXqUVUX8C63YgNx8sKJTNhs=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playnext.png
+SHA1-Digest: 9le0FCWUxH4OriK58uErMJW9EQY=
+
+Name: res/drawable-hdpi-v4/progress_frame.png
+SHA1-Digest: a4aVbFUbtUpqofrKaIhbVMrdTsI=
+
+Name: res/drawable-hdpi-v4/main_btn_nolrchigh.png
+SHA1-Digest: vnjhaf6uxPxKhLMSRPkGhQRiFEM=
+
+Name: res/drawable/devicelist_button_selector.xml
+SHA1-Digest: BH4n2O0DQR2jaX+Hcz1cwEbw6tQ=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: deTf45fB+MC0653IhYWvrXzBlkQ=
+
+Name: res/drawable-mdpi-1024x600-v4/quithigh.png
+SHA1-Digest: od80Ig4L/DLn9RBYATdXtq0YhGQ=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_stophigh.png
+SHA1-Digest: s3dU6WacQPJO/O/xfe941YdskiU=
+
+Name: res/drawable-hdpi-800x600-v4/delete_collect_d.png
+SHA1-Digest: AYWTZBkx5U1K5SpvFjA774pNn8w=
+
+Name: lib/armeabi-v7a/libvinit.so
+SHA1-Digest: S05Keoo8qnRozSBeAv0lCohbKLg=
+
+Name: res/drawable-hdpi-800x600-v4/music_type_layout_background.png
+SHA1-Digest: i/pFcn4lW4CxoOU7dZQWAw527MU=
+
+Name: res/layout/dialog_loading.xml
+SHA1-Digest: NOxD6uQNBImuzcy80ZfncZ8a0+k=
+
+Name: res/layout-hdpi-1024x600-v4/layout_musiclist_detail_item.xml
+SHA1-Digest: relIWcryJSX1gWkF64XZL9gjWaA=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_listhigh.png
+SHA1-Digest: fJ4uXAvQJIJvceT2H9hK9gwNzuM=
+
+Name: res/drawable-hdpi-1024x600-v4/main_no_favorite.png
+SHA1-Digest: IUY2VOpl5fIZBfF2EAwnqZLCeLg=
+
+Name: res/drawable-hdpi-v4/music_name.png
+SHA1-Digest: 4bffjONjaRTGCDehXKIJX/NTERQ=
+
+Name: res/drawable-mdpi-1024x600-v4/down_page_n.png
+SHA1-Digest: 1UFMP5z8cRbPoqZJn4EedSATyh0=
+
+Name: res/drawable-hdpi-v4/dialog_bg.png
+SHA1-Digest: oN/0XxnYGZlPXwOW3q+8O/bgXdQ=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playmodesele_list.png
+SHA1-Digest: 4l/I3d7n4FTi7Ipz4RWFFMwaJ3o=
+
+Name: res/drawable-hdpi-v4/delete_collect_n.png
+SHA1-Digest: nP5gviucvfh5EOn3C4XJ+6A//oo=
+
+Name: res/drawable-hdpi-800x600-v4/delete_collect_n.png
+SHA1-Digest: h6kcGkXt709Z0Mw2JGcaZjRRq2A=
+
+Name: res/drawable-hdpi-800x600-v4/artist_name.png
+SHA1-Digest: fJ4KmLXwgQkqR9/CVVNyHb4wPjo=
+
+Name: res/drawable-hdpi-1024x600-v4/music_type_layout_background.png
+SHA1-Digest: ZP+r2XE/G3MS7LrM3WyhMZio7As=
+
+Name: res/drawable-hdpi-v4/musiclist_button_d.png
+SHA1-Digest: +uGTKlkYC84U/bmljB2IPFdQ9oY=
+
+Name: res/drawable/location_button_selector.xml
+SHA1-Digest: 9iQePAh/q5TfWJO7f17ZwFnuiP0=
+
+Name: res/drawable-hdpi-1024x600-v4/musiclist_button_d.png
+SHA1-Digest: zPLIun69hhD2HbnCHeYGn8LWD8c=
+
+Name: lib/armeabi-v7a/libcompat.7.so
+SHA1-Digest: oKaZZuJwyGVqXZniWsxNus6o33g=
+
+Name: res/drawable-hdpi-v4/musiclist_item_bar_high.png
+SHA1-Digest: bUKRyjosx+Bm2GllKzT3+6C2Dsg=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playmodesele_single.png
+SHA1-Digest: CfiR29cmfpGUe6IzqHwp3Yu6yNQ=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playpre.png
+SHA1-Digest: zxGVzZXcb+iVJFkJmHy4lVu8+3U=
+
+Name: lib/armeabi-v7a/libanw.10.so
+SHA1-Digest: ZhzJk5zko4cIj6Qa7D2aBNJFL3Y=
+
+Name: res/drawable-hdpi-800x600-v4/find_n.png
+SHA1-Digest: VCWslSLNUPWXzmw9uj16WB0ft+E=
+
+Name: res/drawable-hdpi-v4/main_up_background.png
+SHA1-Digest: 47Vt/KEziGn0+K6mA4wE/ZIhjBA=
+
+Name: res/layout-1024x600/layout_currect_playlist_item.xml
+SHA1-Digest: C8IhEyc9p6mIRP0/e1sOSZ05uiQ=
+
+Name: res/drawable-hdpi-1024x600-v4/search_background.png
+SHA1-Digest: g3DhnGFjVq/30gEIa+pZyz2Uow4=
+
+Name: res/drawable-hdpi-800x600-v4/down_button_d.png
+SHA1-Digest: ZNokFTVcz80uC6qu7YF5objRhO8=
+
+Name: res/drawable-mdpi-1024x600-v4/home.png
+SHA1-Digest: HfPee2yA9lWztLRtok2LiXKOKf4=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playmode_single.png
+SHA1-Digest: GsrEI+PUYWG1758sHo/+6YRXXUk=
+
+Name: res/drawable-hdpi-v4/musiclist_button_n.png
+SHA1-Digest: ALaXpMhmkCcaGc/byl3UzxwbkPM=
+
+Name: res/drawable-hdpi-800x600-v4/main_down_background.png
+SHA1-Digest: d/ZTQQ1KO/NM36Hrtj4fXZeSuqQ=
+
+Name: res/layout-hdpi-1024x600-v4/layout_musiclist_item.xml
+SHA1-Digest: sPTsUC7sN+qj+7vNA6ABurAPBY4=
+
+Name: res/drawable-mdpi-1024x600-v4/musiclist_button_n.png
+SHA1-Digest: dA0KeHpxF1K1tyxqt0vijxqeosQ=
+
+Name: res/drawable/nolrc_button_selector.xml
+SHA1-Digest: e6q/zA/prsaBa7sZv+Q9UBY6C84=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playprehigh.png
+SHA1-Digest: pwMr5rAiDlrHEbxRgou9o6fm2d0=
+
+Name: res/drawable-mdpi-1024x600-v4/music_name.png
+SHA1-Digest: nIZauqOmXM6tS/6+8XHuUIZmCAM=
+
+Name: res/drawable-mdpi-1024x600-v4/find_n.png
+SHA1-Digest: kNNPZyLaGL4pweYRd/yrdOpGe70=
+
+Name: res/drawable-hdpi-800x600-v4/musiclist_item_bar_high.png
+SHA1-Digest: nOpf0qSIhHCSrKTzKPk0yD0EESc=
+
+Name: lib/armeabi-v7a/libvlc.so
+SHA1-Digest: 4hqEcaza0ao5BoGqbmBMhlDxErE=
+
+Name: res/drawable-hdpi-1024x600-v4/music_main_background.png
+SHA1-Digest: 6qaK2sU96zA29qWEXGpBvWceUWI=
+
+Name: res/drawable-hdpi-1024x600-v4/icon.png
+SHA1-Digest: NiuiC3fq4zyH1rX6C3GMzHzybHg=
+
+Name: res/drawable-hdpi-800x480-v4/dialog_btn_normal.png
+SHA1-Digest: Hg14bXJXcCC577DXykPmkBgCSHg=
+
+Name: res/drawable-hdpi-v4/main_btn_playmodesele_single.png
+SHA1-Digest: SRwZN1L8ozxxU+tP432Uzgh5+nQ=
+
+Name: res/drawable/find_button_selector.xml
+SHA1-Digest: QQMYKlI5rwUtBIMi93BpkHJI5qI=
+
+Name: res/drawable-hdpi-800x600-v4/musiclist_button_n.png
+SHA1-Digest: +zRoaf1U7da3Z+/2M/zXjZ7xHSc=
+
+Name: res/drawable-mdpi-1024x600-v4/icon.png
+SHA1-Digest: nG8zYwvHaJDLOzNNcGxu96gK/KI=
+
+Name: res/drawable-hdpi-v4/guanbi_d.png
+SHA1-Digest: L8LKhCFeIJHnFALAj8Z2eWOP2dQ=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playmode_list.png
+SHA1-Digest: HL0boLmT/ayLA+36zfjBumutFv0=
+
+Name: res/drawable-mdpi-1024x600-v4/musiclist_background.png
+SHA1-Digest: PlkzXyO8Q4pCDS3CcaX6D0dXuqo=
+
+Name: res/drawable-hdpi-v4/mediacontroller_pause02.png
+SHA1-Digest: 80NnwuyBt4+W1P7ZH+3uejizTPk=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playmodesele_list.png
+SHA1-Digest: ye4gi9neJ1nJLVy2iTE0qR+Qv6w=
+
+Name: res/drawable-hdpi-v4/dialog_btn_select.png
+SHA1-Digest: ho/YS2eOFrcMyS7zttYQJyGgw1g=
+
+Name: res/drawable-hdpi-v4/artist_background.png
+SHA1-Digest: gGMkRh2gNm1iixhMlwIHHyjk+Ys=
+
+Name: res/drawable-hdpi-v4/curplaylist_volumebar_bg.9.png
+SHA1-Digest: aM82Cf5Ot8Ub/fWfMuOA8bvDLKw=
+
+Name: res/drawable-mdpi-1024x600-v4/is_collect.png
+SHA1-Digest: fgXnRaJHFVqDBhYyDEPNd4nRbxU=
+
+Name: res/drawable-mdpi-1024x600-v4/button_normal.png
+SHA1-Digest: X/fLKonew3cROwqhfcCwfMRl+iY=
+
+Name: res/layout/layout_lrc.xml
+SHA1-Digest: /mO+PFLwpmq05+qYmTZWvM4adhk=
+
+Name: res/layout-1024x600/layout_musiclist_detail_item.xml
+SHA1-Digest: YIjtcbZ8SlPIt4LsfGjgdSO38x0=
+
+Name: res/drawable-hdpi-800x600-v4/button_selected.png
+SHA1-Digest: Ll+QuNBFy58gtj/Du2JodyF5tYg=
+
+Name: res/drawable-hdpi-v4/list_background.9.png
+SHA1-Digest: Es1/MuIYHK4bnZEYnutL0Z0a7Vc=
+
+Name: lib/armeabi/libvinit.so
+SHA1-Digest: WH2vmOBmSOxNfRHQHcDM9wXYS4s=
+
+Name: res/drawable-hdpi-v4/down_button_d.png
+SHA1-Digest: UjnNuM1tjydoCfN0/rnvCqeYzKw=
+
+Name: res/drawable/down_button_selector.xml
+SHA1-Digest: nDdaHZYGH/9xTD5bBlBiX264f28=
+
+Name: res/drawable-hdpi-800x600-v4/up_page_d.png
+SHA1-Digest: ftcFvZztMszXMrDhpM+an+eeE8g=
+
+Name: lib/armeabi-v7a/libanw.21.so
+SHA1-Digest: HdDx0nBbegHwRD25bF4YeuF4Xv8=
+
+Name: res/drawable-hdpi-800x600-v4/musiclist_button_d.png
+SHA1-Digest: 7Hgn42QzhASeNskpz45vH6wz9sk=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_play.png
+SHA1-Digest: 3eEkdYzX34kBOqbXPr6dbhxAgMA=
+
+Name: res/layout-hdpi-1024x600-v4/layout_currect_playlist_item.xml
+SHA1-Digest: VYsddTGNj8rIGXtgtRZwZbq1Obc=
+
+Name: res/anim/none.xml
+SHA1-Digest: m7rCSET7Cs+VcHwEiLBViI8xLGg=
+
+Name: res/layout-hdpi-1024x600-v17/activity_music_play.xml
+SHA1-Digest: nhoimKsJaLppuWSg0wrJ8TLbEs4=
+
+Name: res/drawable-hdpi-800x600-v4/up_button_d.png
+SHA1-Digest: LRKgyIFQoT1c+pc2/SdcDJRKxf0=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_nolrchigh.png
+SHA1-Digest: wP+m6D4J5UZwyXZvwDa7cvFGIk4=
+
+Name: res/drawable-hdpi-1024x600-v4/main_down_background.png
+SHA1-Digest: j1ZCLFKxM7uZ0xjcMiwWT5CTf0I=
+
+Name: res/drawable-hdpi-1024x600-v4/homehigh.png
+SHA1-Digest: QTwCi9sp4078+uRjAGuTf5yVUYM=
+
+Name: res/drawable-mdpi-1024x600-v4/curplaylist_volumebar_bg.9.png
+SHA1-Digest: 7PIaiE+494FB2lcoYJxAO+k32/w=
+
+Name: res/drawable-hdpi-v4/zhongjian.9.png
+SHA1-Digest: NTzP12AX/4b1B0f/4kH3QDUcqBw=
+
+Name: res/drawable-hdpi-v4/location.png
+SHA1-Digest: wtz7GwHgLU77YD0VaBx5SQ8C3/8=
+
+Name: res/drawable/delete_collect_button_selector.xml
+SHA1-Digest: cZchU5ynsh7TsvBk5ofXPq3ddNU=
+
+Name: res/drawable-hdpi-1024x600-v4/currect_playlist_background_d.png
+SHA1-Digest: XiHDoiU3g06uc9u4pXSe0i1v0eo=
+
+Name: res/drawable-hdpi-1024x600-v4/mute_t.png
+SHA1-Digest: bAREbBaXzk+7/NBeVeCOKQOGzAA=
+
+Name: res/layout-mdpi-1024x600-v4/activity_musiclist.xml
+SHA1-Digest: iBfImMqI7K97frsZZ1i7ChPWKtc=
+
+Name: res/drawable-hdpi-800x600-v4/location_high.png
+SHA1-Digest: 3+s++2ZClDDrShY/qz5mYNvZL1o=
+
+Name: res/drawable-mdpi-1024x600-v4/delete_collect_n.png
+SHA1-Digest: avvidskQHqJ1rHcqfWq+aHDT4Dg=
+
+Name: res/drawable/mediacontroller_seekbar.xml
+SHA1-Digest: +S9hlPTGZD/8qCe79fBiDeBJ6q4=
+
+Name: res/drawable/lrc_button_selector.xml
+SHA1-Digest: K75Fg+k5GrHMS8wCYxECgMaXTYA=
+
+Name: res/drawable-hdpi-v4/seekbar_thumb.9.png
+SHA1-Digest: tsUjcXaaAIGA2/02B+dA6c6OpaA=
+
+Name: res/drawable/button_home_selector.xml
+SHA1-Digest: Vxp2YlLVr9JjE7VcmUnJO5AVOOc=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_playmode_list.png
+SHA1-Digest: HeNpr2Ozyq+C9uhyiZzRbBE42l0=
+
+Name: res/drawable-hdpi-v4/uibase_dialog_button.png
+SHA1-Digest: DuSsTjLid5kiiBGdOp95eYaGKaI=
+
+Name: res/drawable-hdpi-1024x600-v4/quit.png
+SHA1-Digest: 8IxG3b2pxlF2tUZ9xYFFRT0Jaak=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_aps.png
+SHA1-Digest: FYyNarbQu1A4W83B1BEH3fQ9EUA=
+
+Name: lib/armeabi-v7a/libiomx.13.so
+SHA1-Digest: dqyMmuvnWCNYvEo0bmQE/jrCioY=
+
+Name: res/drawable-hdpi-v4/dialog_btn_normal.png
+SHA1-Digest: uR8pCM8Ki6SuCD6y6CzjHLC35qQ=
+
+Name: res/drawable-hdpi-800x600-v4/vertical_line.png
+SHA1-Digest: IlAwtTL6pm55M2keCWT0DYMC2kU=
+
+Name: res/drawable-mdpi-1024x600-v4/no_collect.png
+SHA1-Digest: RydoclZmsq54AM3knIxmynkSuyY=
+
+Name: res/layout/mediacontroller.xml
+SHA1-Digest: roTm1z9S9ZYfFNbdy9m/hyKhf3w=
+
+Name: res/drawable-mdpi-1024x600-v4/up_button_d.png
+SHA1-Digest: 8Oq07IP0rqzPBxOdG8JaIfzbe4Y=
+
+Name: res/drawable-mdpi-1024x600-v4/volume_thumb.png
+SHA1-Digest: yhyyJ9qa6JUo0sEJbcCtGcgVjX4=
+
+Name: res/drawable-hdpi-v4/jidubj.png
+SHA1-Digest: 87aookRqM5NgoWqNTmH1hDrt+Lk=
+
+Name: resources.arsc
+SHA1-Digest: 1koi6l+bKBjhHQJrfWuTqwfZXpA=
+
+Name: res/drawable-hdpi-1024x600-v4/location_high.png
+SHA1-Digest: dfF3aczkrD0NDIOHeaGKLe2AEoI=
+
+Name: res/layout-mdpi-1024x600-v4/activity_search.xml
+SHA1-Digest: dEcSA1gYfD4YIs8JteWoNenxHNA=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_apshigh.png
+SHA1-Digest: jy3OaS7N4i88fyQCq/Lt5wQRTHs=
+
+Name: res/drawable-hdpi-v4/mediacontroller_pause01.png
+SHA1-Digest: u+VvhzaMplHPHaYRCVGBLW3VabI=
+
+Name: res/drawable-hdpi-v4/main_btn_stophigh.png
+SHA1-Digest: Yw2JhJUdLUO/QBWGDd6hsZOdHUg=
+
+Name: res/drawable-hdpi-v4/ic_seekbar_bg.9.png
+SHA1-Digest: weK6MXICQZ59+mZB44DgQVWEMP4=
+
+Name: res/drawable/next_button_selector.xml
+SHA1-Digest: xAnVs+5trMS5gH4Aex+0miUpp1Y=
+
+Name: res/layout-v17/activity_music_play.xml
+SHA1-Digest: ay30e0b8WevWDOZ5vdx1TOugNTc=
+
+Name: res/drawable/currect_playlist_selector.xml
+SHA1-Digest: enFAkbSaQ2j1UJKjuuitAy69WRU=
+
+Name: res/drawable-hdpi-v4/down_page_n.png
+SHA1-Digest: cI9GVv0zq8NYD4r25yJeeCiIQUs=
+
+Name: res/drawable/down_page_selector.xml
+SHA1-Digest: 3ZfURKwv1wrWK0DwaiBvLRQWeKc=
+
+Name: res/layout/layout_musiclist_detail_item.xml
+SHA1-Digest: BYAuV8IrOmgLuvfMpHFplz/17Dc=
+
+Name: res/drawable-hdpi-v4/mediacontroller_bg.png
+SHA1-Digest: 3r1YMm67JoFSZ9jMZE0+VPsiAc4=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_lrchigh.png
+SHA1-Digest: oVDnfpMdfeUdCUswarr78arpRfQ=
+
+Name: res/drawable-hdpi-v4/main_btn_playnexthigh.png
+SHA1-Digest: xZNfdnFt4x1Z/Bf1E/vhwlDWnSM=
+
+Name: res/layout/layout_musiclist_item.xml
+SHA1-Digest: DRl2K23+e7CDTihTYVN8pFt14OM=
+
+Name: res/drawable-hdpi-800x600-v4/musiclist_item_bar.png
+SHA1-Digest: N5Xb71smTReYi6U5WYvpO9dToY0=
+
+Name: res/drawable-mdpi-1024x600-v4/down_button_n.png
+SHA1-Digest: MUFOuXQELspndHIW/+4oUbTSLfc=
+
+Name: res/drawable-hdpi-1024x600-v4/main_arits_frame.png
+SHA1-Digest: uc9Sw3TfONoI5qY6Q+zLvBi9HDw=
+
+Name: res/drawable-hdpi-v4/guanbi_n.png
+SHA1-Digest: F283BkA6/aQqGu5Z/66P7v4I0eM=
+
+Name: res/drawable-hdpi-800x600-v4/up_button_n.png
+SHA1-Digest: H1aKd9AcCMpWQO5DkhhAIsXyVTw=
+
+Name: res/drawable-hdpi-v4/currect_playlist_line.png
+SHA1-Digest: PvCE4NXgi3oeDuv3mv/88eotRDg=
+
+Name: res/drawable-hdpi-800x600-v4/main_arits_frame.png
+SHA1-Digest: JBeDDlc1MuZ+1bG3F/pdzrQxnW4=
+
+Name: res/drawable/loading_dialog_bg.xml
+SHA1-Digest: tU1VEg2sHmWpW2ONe8DQFkaRy1k=
+
+Name: res/drawable-hdpi-v4/find_d.png
+SHA1-Digest: LIycPrcH9FyD0kGwd/kMawvo/so=
+
+Name: res/layout/dialog_public.xml
+SHA1-Digest: 0FLmaztt6eXUK1g4yX76bqx41I4=
+
+Name: res/drawable-mdpi-1024x600-v4/search_background.png
+SHA1-Digest: EvXp2C4Ng6WI0rpLjP4LXvWkG4A=
+
+Name: res/drawable/button.xml
+SHA1-Digest: lkzyc21BqvkwZeczmPjFi8jmtYw=
+
+Name: res/layout-1024x600/activity_musiclist.xml
+SHA1-Digest: IPriGi22bpuWMCQfbNvt+D7ISes=
+
+Name: res/drawable-hdpi-v4/down_button_n.png
+SHA1-Digest: QDifJzgbvPGPtRDFFTXCtq58sPA=
+
+Name: res/anim/push_left_out.xml
+SHA1-Digest: R1r7TAgSsgRCqOMtmw69bWWkUOA=
+
+Name: res/drawable-hdpi-v4/mute_t.png
+SHA1-Digest: rxOAaSFZaOD3zuDEe3Z3Ic/P1ss=
+
+Name: res/drawable-hdpi-800x480-v4/dialog_btn_select.png
+SHA1-Digest: 0LvjzOJoIX+/K1xx5oQc9QCnBYc=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_nolrchigh.png
+SHA1-Digest: 6u3QwdaR5dy+7RB5NL55e4OJfDY=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_play.png
+SHA1-Digest: t4yvqdeoVQxkjx29vl4TUjhesNI=
+
+Name: res/layout/upgrade_main.xml
+SHA1-Digest: WGjpj51daPPeHxyVqRFt8dHcQwo=
+
+Name: res/drawable-hdpi-800x480-v4/dialog_bg.png
+SHA1-Digest: slmJRpObU4aCwLpwfAcSBvDoGII=
+
+Name: res/drawable-hdpi-v4/anniu_n.png
+SHA1-Digest: Dg8ijgpvJAAibTdyTHGR6Rc1aA0=
+
+Name: res/drawable-hdpi-v4/main_btn_playhigh.png
+SHA1-Digest: cec7NnXEIxtMtT+723ANaJsccKg=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: FIRSv2tfAlpKaxsgw3gQFCtE++0=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playnext.png
+SHA1-Digest: O5VRKP4t96gPztzfQEXQNvrRYfQ=
+
+Name: res/drawable-mdpi-1024x600-v4/artist_name.png
+SHA1-Digest: amjoeU37mv65ceHwrDnBv2+2fnU=
+
+Name: res/drawable-hdpi-800x600-v4/main_btn_aps.png
+SHA1-Digest: GfQD05vwrRhQz1HANRbFpn07M78=
+
+Name: res/layout-1024x600-v17/activity_music_play.xml
+SHA1-Digest: gq63G5ako0/yACS60BrVXox5WX8=
+
+Name: res/drawable-hdpi-1024x600-v4/currect_playlist_line.png
+SHA1-Digest: 0p6hO19d1zagYh/mCZBLLlVxkTY=
+
+Name: lib/armeabi-v7a/libanw.18.so
+SHA1-Digest: A8e8pkjSR4SmAUNoE/ODZyoHZCw=
+
+Name: res/layout-1024x600/activity_music_play.xml
+SHA1-Digest: PvVJ6OJjnuZTRkCokWIYZbEsuOo=
+
+Name: res/drawable/blue_backgroud.xml
+SHA1-Digest: F/POOIh9lDRcgJi4GE9BSKfzZRI=
+
+Name: res/drawable-mdpi-1024x600-v4/mute_t.png
+SHA1-Digest: fe7tek4TVlAgrbgmYBtzSHUNta0=
+
+Name: res/layout-mdpi-1024x600-v4/layout_musiclist_item.xml
+SHA1-Digest: uF7ZR9taLpvCKMCoECJXd2LL5c4=
+
+Name: res/drawable-hdpi-v4/fengexian.png
+SHA1-Digest: b2igtoUb9NQicZ47ZIxhrqxTyWo=
+
+Name: res/drawable-hdpi-1024x600-v4/artist_name.png
+SHA1-Digest: z+2cH3GwmGLawHMrBix8CLABKmc=
+
+Name: res/drawable-hdpi-1024x600-v4/line.png
+SHA1-Digest: sHFjUYCOFIbnGgA86osA1vNaOpc=
+
+Name: res/raw/libarm.so
+SHA1-Digest: +8c5n2UdUMAAhSkjYHZKZg5vJAM=
+
+Name: res/layout/include_toolbar.xml
+SHA1-Digest: i0lbdUE7aEVRMNI0+SDTYc+V2E0=
+
+Name: res/drawable/pause_button_selector.xml
+SHA1-Digest: /AwA6V8vnSasXppdF9akPmlSFUI=
+
+Name: res/drawable-mdpi-1024x600-v4/main_btn_playmodesele_random.png
+SHA1-Digest: baL+eI7u92A2td/cmGQzBODSUGI=
+
+Name: res/drawable-hdpi-v4/main_btn_playprehigh.png
+SHA1-Digest: JajY/232HX7XCa3W/wkjzdObHKE=
+
+Name: res/drawable-hdpi-v4/currect_playlist_background_d.png
+SHA1-Digest: 3OyWEfYNEUEwxYCbyMvzflCx4OE=
+
+Name: res/drawable-hdpi-1024x600-v4/curplaylist_volumebar_bg.9.png
+SHA1-Digest: 0Ny+h184U/ZunwG8YKRJo7S6Vso=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_stophigh.png
+SHA1-Digest: OaNxhlzkx2fnPhIXGEtyHzezvXI=
+
+Name: res/drawable-hdpi-v4/mediacontroller_play02.png
+SHA1-Digest: UjzekjF4OoS9VcOi5cFG9q8RkQo=
+
+Name: res/drawable-hdpi-v4/up_page_n.png
+SHA1-Digest: +so5ZsPMTRXLadNwyOM2XVQUbM0=
+
+Name: res/drawable-hdpi-v4/mediacontroller_seekbar01.png
+SHA1-Digest: mDRhuhr1DG2Iz68xZxcMcxBvkcM=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playmode_list.png
+SHA1-Digest: eX3V1/7cQLig7wolIXHndzWHNvI=
+
+Name: res/drawable-hdpi-v4/ic_seekbar_progress.9.png
+SHA1-Digest: n25eytvXPrnaI8nGrOm+GpjB4rs=
+
+Name: res/layout-mdpi-1024x600-v4/activity_music_play.xml
+SHA1-Digest: 5sjJGPQxre92cAr0AFSR0HH5sZE=
+
+Name: res/drawable/musiclist_button_selector.xml
+SHA1-Digest: IzTIzUxgDCZEbMyyiOXGvBk5xUE=
+
+Name: res/drawable/mediacontroller_pause_button.xml
+SHA1-Digest: Z5PtqEFkDcNB3/dMHFOz69rL0pk=
+
+Name: res/drawable-mdpi-1024x600-v4/currect_playlist_background_d.png
+SHA1-Digest: c7t+rRdEVf00jt1cUaoa5ZNaMwg=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_lrchigh.png
+SHA1-Digest: kCA20FTBr59cRY4dkzaPJvGdNFI=
+
+Name: res/drawable-hdpi-1024x600-v4/up_page_n.png
+SHA1-Digest: ltNklb2zyZ5F1LJdDgMR7gzC7ew=
+
+Name: res/drawable-hdpi-1024x600-v4/delete_collect_n.png
+SHA1-Digest: 2qeHHrxLG5qhChNpShGTKNw18VE=
+
+Name: res/drawable/close_btn.xml
+SHA1-Digest: EudhCjfJrZtVmqAHE+F/DHtDpvU=
+
+Name: res/drawable-hdpi-v4/main_no_favorite.png
+SHA1-Digest: +FVrM0WG8qM46hYBuikqhSDGQk0=
+
+Name: res/drawable-hdpi-1024x600-v4/up_button_n.png
+SHA1-Digest: 5LtBQBt2I3fTnFEMVh3CSIhdWSE=
+
+Name: res/drawable-hdpi-1024x600-v4/main_btn_playmodesele_random.png
+SHA1-Digest: k43l/lRRnE9KoUMptIggx/TXZvY=
+
+Name: res/layout-hdpi-1024x600-v4/include_toolbar.xml
+SHA1-Digest: KejLMJ7SPiGxNVHtlYeh7JIR+m8=
+
+Name: res/drawable-hdpi-1024x600-v4/up_page_d.png
+SHA1-Digest: RmIyDs2oIYexJemd1RTFK1FAVhI=
+
+Name: res/drawable-hdpi-1024x600-v4/main_up_background.png
+SHA1-Digest: hKKm7GlW+/Pf7N3mLs92YUIjvEM=
+

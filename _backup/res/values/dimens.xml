@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_text_40_size">26.0sp</dimen>
+    <dimen name="font_text_38_size">24.0sp</dimen>
+    <dimen name="font_text_36_size">22.0sp</dimen>
+    <dimen name="font_text_34_size">20.0sp</dimen>
+    <dimen name="font_text_32_size">18.0sp</dimen>
+    <dimen name="font_text_30_size">16.0sp</dimen>
+    <dimen name="font_text_28_size">14.0sp</dimen>
+    <dimen name="font_text_26_size">13.0sp</dimen>
+    <dimen name="font_text_24_size">12.0sp</dimen>
+    <dimen name="activity_padding">15.0dip</dimen>
+    <dimen name="font_text_32_size_800_480">16.0sp</dimen>
+    <dimen name="font_text_30_size_800_480">14.0sp</dimen>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="main_btn_text_size">17.0sp</dimen>
+    <dimen name="search_text_size">19.0sp</dimen>
+    <dimen name="search_letter_size">21.0sp</dimen>
+    <dimen name="file_dir_size">15.0sp</dimen>
+    <dimen name="main_btn_text_size_800_480">14.0sp</dimen>
+    <dimen name="font_text_30_size_mdpi">23.0sp</dimen>
+    <dimen name="font_text_32_size_mdpi">25.0sp</dimen>
+    <dimen name="main_btn_text_size_mdpi">23.0sp</dimen>
+    <dimen name="file_dir_size_mdpi">20.0sp</dimen>
+    <dimen name="search_letter_size_mpdi">25.0sp</dimen>
+    <dimen name="search_text_size_mdpi">25.0sp</dimen>
+</resources>

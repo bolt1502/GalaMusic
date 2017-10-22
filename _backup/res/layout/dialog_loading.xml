@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/loading_dialog" android:background="@drawable/loading_dialog_bg" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:uicontrol="http://com.acloud.stub.ecard/apk/res/com.acloud.stub.UiControl">
+    <ProgressBar android:id="@id/loading_progressBar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:indeterminateDrawable="@drawable/progress_drawble" android:layout_alignParentLeft="true" android:layout_centerInParent="true" />
+    <TextView android:textSize="@dimen/font_text_34_size" android:id="@id/loading_prompt_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:text="@string/loading" android:layout_toRightOf="@id/loading_progressBar" android:layout_centerVertical="true" />
+</RelativeLayout>
